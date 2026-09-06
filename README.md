@@ -1,5 +1,9 @@
 # AWS 3-Tier Web Application
 
+🚀 *Live Demo:* [Open Live Application](http://app-external-alb-1871298044.ap-south-1.elb.amazonaws.com)
+
+A production-style 3-Tier Web Application deployed on AWS using React, Node.js, MySQL, EC2, Application Load Balancers, Target Groups, and a custom VPC architecture.# AWS 3-Tier Web Application
+
 A production-style 3-Tier Web Application deployed on AWS using React, Node.js, MySQL, EC2, Application Load Balancers, Target Groups, and a custom VPC architecture.
 
 ## 🏗️ Architecture
